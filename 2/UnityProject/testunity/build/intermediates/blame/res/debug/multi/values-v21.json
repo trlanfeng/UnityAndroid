@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "E:\\Personalspace\\UnityAndroid\\2\\UnityProject\\testunity\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "E:\\Personalspace\\UnityAndroid\\2\\UnityProject\\testunity\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 157
+                    }
+                }
+            }
+        ]
+    }
+]
